@@ -1,5 +1,5 @@
 # 👋 Salve! 
-# Name's Breno, but you can address me as...   🌠 BM 🌟
+# Name's Breno, but you can address me as...    BM 
 ##### if you don't want to you don't need to...
 
 💻 **Computer Scientist Undergraduate**
